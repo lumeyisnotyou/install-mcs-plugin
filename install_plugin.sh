@@ -10,6 +10,7 @@
 # Note: Your plugins *MUST* be located in a folder named /plugins/, change the code if you must.
 
 # ALERT: messy code ahead.
+SERVER_LOCATION=/opt/minecraftServer
 install-mcs-plugin(){
 if  [[ $1 = "-u" ]]; then
  if [[ -e $2 ]]; then
