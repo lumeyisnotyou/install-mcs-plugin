@@ -10,8 +10,8 @@ Tired of installing your Minecraft server plugins by using your file manager? tr
 Installation is fairly easy, place install_plugin.sh in your Minecraft server's folder (to keep track of it easily).
 Open up the file and change the directory for where your server is located to the address where you have your folder.
 Save the file and close the window.
-Find your .bashrc file on your computer (usually located in your home folder but hidden), open it up and scroll to the bottom, add this line to the end `./path-to-mcserver/install_plugin.sh` (replace path-to-mcserver with your path.).
+Find your .bashrc file on your computer (usually located in your home folder but hidden), open it up and scroll to the bottom, add this line to the end ```./path-to-mcserver/install_plugin.sh``` (replace path-to-mcserver with your path.).
 Save, reopen any open terminals, enjoy.
 
 <h2> Using the Script </h2>
-You can view the help command by using `install-mcs-plugin -help`
+You can view the help command by using ```install-mcs-plugin -help```
