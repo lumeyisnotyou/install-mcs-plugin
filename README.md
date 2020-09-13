@@ -1,5 +1,5 @@
 ![install-mcs-plugin logo](img/imp.png)
-![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge&link=https://github.com/lumeyisnotyou/install-mcs-plugin/releases/tag/1.0)
+![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge)
 
 Tired of installing your Minecraft server plugins by using your file manager? try this. its better, trust me.
 
