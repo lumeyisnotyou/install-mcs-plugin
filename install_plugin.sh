@@ -55,8 +55,7 @@ echo 'Not a file.'
  fi
  fi
  if [[ $1 = "-help" ]]; then
- echo 'manokraft easy unzipping system'
- echo 'Author: lumey'
+ echo 'install-mcs-plugin'
  echo "Makin' your un-zippin' easier."
  echo
  echo "Commands:"
