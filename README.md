@@ -8,7 +8,7 @@ Tired of installing your Minecraft server plugins by using your file manager? tr
   - A unix-like operating system that uses bash (shell) 
   - A Minecraft server. (duh) 
   - Literally any piece of hardware, if you're running a server, you can run this. 
-
+  - An internet connection (for installation only.)
 ## Installation 
 - Installation is dead simple, download the latest release and open a terminal, type `./install.sh` and follow the prompts.
 - Test a .JAR file to make sure it's working.
