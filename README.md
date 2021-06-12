@@ -5,7 +5,7 @@ Tired of installing your Minecraft server plugins by using your file manager? tr
 
 ## Requirements
 
-  - A unix-like operating system that uses bash (shell) 
+  - A unix-like operating system that uses bash
   - A Minecraft server. (duh) 
   - Literally any piece of hardware, if you're running a server, you can run this. 
   - An internet connection (for installation only.)
